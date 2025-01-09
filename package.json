@@ -1,0 +1,20 @@
+{
+  "name": "cadrasto",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.1.0",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "prisma": "^6.1.0"
+  }
+}
